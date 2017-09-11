@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# OWNER : Abhay Dandekar
+# SCRIPT : To manage start-up of HDFS
+
 source ./config
 
 echo "Using INSTALL_HOME: $HDFS_INSTALL_HOME"
