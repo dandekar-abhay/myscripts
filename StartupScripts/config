@@ -2,12 +2,12 @@
 #This script will be imported in all other scripts
 
 
-GLOBAL_SLEEP_TIME=30
+GLOBAL_SLEEP_TIME=3
 
 PRIVATE_DATA_HOME=$DATA_HOME
 # ===============
 
 HDFS_INSTALL_HOME=/home/abhay/MyHome/WorkArea/CodeHome/Apache/Hadoop/CDH/hadoop
 SPARK_INSTALL_HOME=SPARK_HOME
-KAFKA_INSTALL_HOME=KAFKA_HOME
+KAFKA_INSTALL_HOME=/home/abhay/MyHome/WorkHome/kafka/kafka_2.11-0.10.2.0
 MR_INSTALL_HOME=MR_HOME
